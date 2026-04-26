@@ -1,7 +1,7 @@
 # Personal Portfolio – Johnluis Morales
 
 This is my personal portfolio website built with React and Vite.  
-It is designed to showcase my work as a **Digital Media student on the Web Design track**, along with some of the projects I have built using modern web and mobile technologies.
+It is designed to showcase my work as a **Digital Media student on the Web Design track**, along with some of the projects I have built.
 
 Live site: https://itzjohn2o1.github.io/Portfolio/
 
